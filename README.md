@@ -11,14 +11,15 @@ Eclipse
 Test case execution:
 1. Download the project.
 2. Open command prompt or terminal
-2. Navigate to project directory and give command 'mvn test'
-3. Test case will be executed as part of the build and results will be available in the build console or target folder within project directory.
+3. Navigate to project directory and give command 'mvn test'
+4. Test case will be executed as part of the build and results will be available in the build console or target folder within project directory
 
 Steps to verify output:
+
 1. Download the project
-2. Import it into eclipse as existing maven project.
-3. Build the project within eclipse.
-4. Navigate to ReceiptPrinter class.
+2. Import it into eclipse as existing maven project
+3. Build the project within eclipse
+4. Navigate to ReceiptPrinter class
 5. Execute the class as java application.
 
 Design Approach:

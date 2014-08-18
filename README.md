@@ -9,6 +9,7 @@ Maven 3
 Eclipse
 
 Test case execution:
+
 1. Download the project.
 2. Open command prompt or terminal
 3. Navigate to project directory and give command 'mvn test'
